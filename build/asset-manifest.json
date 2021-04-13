@@ -1,0 +1,42 @@
+{
+  "files": {
+    "static/css/0.55d8add8.chunk.css": "/hubedu/static/css/0.55d8add8.chunk.css",
+    "static/js/0.0335b043.chunk.js": "/hubedu/static/js/0.0335b043.chunk.js",
+    "static/js/0.0335b043.chunk.js.map": "/hubedu/static/js/0.0335b043.chunk.js.map",
+    "static/css/1.1bc54f9c.chunk.css": "/hubedu/static/css/1.1bc54f9c.chunk.css",
+    "static/js/1.04859c4e.chunk.js": "/hubedu/static/js/1.04859c4e.chunk.js",
+    "static/js/1.04859c4e.chunk.js.map": "/hubedu/static/js/1.04859c4e.chunk.js.map",
+    "main.css": "/hubedu/static/css/main.168f3237.chunk.css",
+    "main.js": "/hubedu/static/js/main.98ecc800.chunk.js",
+    "main.js.map": "/hubedu/static/js/main.98ecc800.chunk.js.map",
+    "runtime-main.js": "/hubedu/static/js/runtime-main.8ab95fdc.js",
+    "runtime-main.js.map": "/hubedu/static/js/runtime-main.8ab95fdc.js.map",
+    "static/css/4.0e352056.chunk.css": "/hubedu/static/css/4.0e352056.chunk.css",
+    "static/js/4.c603b057.chunk.js": "/hubedu/static/js/4.c603b057.chunk.js",
+    "static/js/4.c603b057.chunk.js.map": "/hubedu/static/js/4.c603b057.chunk.js.map",
+    "static/css/5.bad4a651.chunk.css": "/hubedu/static/css/5.bad4a651.chunk.css",
+    "static/js/5.7213d451.chunk.js": "/hubedu/static/js/5.7213d451.chunk.js",
+    "static/js/5.7213d451.chunk.js.map": "/hubedu/static/js/5.7213d451.chunk.js.map",
+    "static/css/6.7f598017.chunk.css": "/hubedu/static/css/6.7f598017.chunk.css",
+    "static/js/6.375d8fb8.chunk.js": "/hubedu/static/js/6.375d8fb8.chunk.js",
+    "static/js/6.375d8fb8.chunk.js.map": "/hubedu/static/js/6.375d8fb8.chunk.js.map",
+    "index.html": "/hubedu/index.html",
+    "static/css/0.55d8add8.chunk.css.map": "/hubedu/static/css/0.55d8add8.chunk.css.map",
+    "static/css/1.1bc54f9c.chunk.css.map": "/hubedu/static/css/1.1bc54f9c.chunk.css.map",
+    "static/css/4.0e352056.chunk.css.map": "/hubedu/static/css/4.0e352056.chunk.css.map",
+    "static/css/5.bad4a651.chunk.css.map": "/hubedu/static/css/5.bad4a651.chunk.css.map",
+    "static/css/6.7f598017.chunk.css.map": "/hubedu/static/css/6.7f598017.chunk.css.map",
+    "static/css/main.168f3237.chunk.css.map": "/hubedu/static/css/main.168f3237.chunk.css.map",
+    "static/js/0.0335b043.chunk.js.LICENSE.txt": "/hubedu/static/js/0.0335b043.chunk.js.LICENSE.txt",
+    "static/js/4.c603b057.chunk.js.LICENSE.txt": "/hubedu/static/js/4.c603b057.chunk.js.LICENSE.txt",
+    "static/js/5.7213d451.chunk.js.LICENSE.txt": "/hubedu/static/js/5.7213d451.chunk.js.LICENSE.txt",
+    "static/media/laptop.db0a6ff4.png": "/hubedu/static/media/laptop.db0a6ff4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ab95fdc.js",
+    "static/css/5.bad4a651.chunk.css",
+    "static/js/5.7213d451.chunk.js",
+    "static/css/main.168f3237.chunk.css",
+    "static/js/main.98ecc800.chunk.js"
+  ]
+}
